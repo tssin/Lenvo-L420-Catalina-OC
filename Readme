@@ -1,4 +1,10 @@
 ![screen](https://raw.githubusercontent.com/tssin/Lenvo-L420-Catalina-OC/main/L420.gif)
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tssin/Lenvo-L420-Catalina-OC/main/L420.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tssin/Lenvo-L420-Catalina-OC/main/L420.gif">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 ● DISCLAIMER：
 CPU i5-2450m  
